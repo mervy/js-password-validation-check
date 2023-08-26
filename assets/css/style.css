@@ -52,4 +52,13 @@ transform: translateY(-50%);
  }
  .requirement-list li {
     list-style: none;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+ }
+ .requirement-list li i {
+    font-size: 0.6rem;
+    color: #aaa;
+    width: 20px;
  }
